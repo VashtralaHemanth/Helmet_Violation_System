@@ -1,0 +1,14 @@
+[
+  {
+    "vehicleNumber": "UNKNOWN",
+    "violationType": "NO_HELMET",
+    "location": "Manual Upload",
+    "imageUrl": "output\\violations\\violation_20260313_155717.jpg"
+  },
+  {
+    "vehicleNumber": "UNKNOWN",
+    "violationType": "NO_HELMET",
+    "location": "Manual Upload",
+    "imageUrl": "output\\violations\\violation_20260313_160159.jpg"
+  }
+]
